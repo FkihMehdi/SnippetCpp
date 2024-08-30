@@ -422,7 +422,7 @@
 			"const double EPS = 1e-9;",
 			"",
 			"//pick's theorem : S = I + B/2 - 1",
-			"S : surface of polygon , I : number of points inside polygon without the boundry , B the number of points int the boundry of the polygon",
+			"//S : surface of polygon , I : number of points inside polygon without the boundry , B the number of points int the boundry of the polygon",
 			"// point operations",
 			"//change sometimes the type to int",
 			"struct point2d",
